@@ -1,0 +1,70 @@
+Целият разговор:
+https://chat.openai.com/share/532bb3ff-340c-4e7a-a187-2e15e4bad4b1
+
+Примерна първа подкана:
+Hello, my task today is to work together with you to write a short story (about 3000 words minimum). The story should consist of three parts - beginning (where the introduction is made), middle (where the action happens), and end (where the story is finished) .The genre of the story I have chosen is fantasy. It should contain magic, adventure and maybe mystery.
+I want to begin with defining three characters, then three locations - each location should be used to supplement the beginning, middle and end accordingly.
+Afterward I will ask you some html and css questions, as I have to create a small webpage where I must shocase my story. I will enhance the webpage with images of the locations and the characters, so their descriptions should be well made.
+You can provide me with a simple prompt plan that I can follow in order to finish all these tasks.
+
+------------------------
+
+Подкани за генериране на изображения за герои:
+
+1. Elena Stormrider:
+Description:
+
+Tall and slender with a regal posture, Elena has flowing silver hair that seems to catch and reflect the ambient light.
+Her eyes shimmer with a stormy intensity, constantly changing colors to mirror her emotions.
+Adorned in a celestial blue robe embroidered with intricate symbols representing the elements she controls.
+Carries a staff made of intertwined vines and lightning-shaped crystals, pulsating with energy.
+
+PROMPT: breathtaking, mysterious, fantasy, magical, silver hair, stormy eyes, celestial robe embroidered with symbols of the elements, staff with lightning crystals, (regal woman:1.5), (creating a spell with hands), surrealism, hyper-realistic, colors and shapes, highly detailed, realism pushed to extreme, fine texture, 8k, ultra-detailed, (vivid swirling smoke, thick smoke:1.4), fluid, ice, cinematic, (intricate details:1.5), (vibrant colors:1.4), flash explosion, (colorful ice powder explosion), (billowing hair:1.5) "((magical enchantment on hands))" "((creates a spell from hands towards viewer))"
+
+2. Alden Ironheart:
+Description:
+
+A broad-shouldered warrior with a rugged, weathered face, Alden's eyes are a piercing shade of steel gray.
+Wears a suit of enchanted armor that gleams in a muted silver hue, adorned with symbols of justice and redemption.
+His magical sword, named Dimension's Bane, reflects a glint of otherworldly energy with a blade that seems to cut through space itself.
+Despite his stoic exterior, his eyes reveal the weight of past mistakes and a burning determination for redemption.
+
+PROMPT: breathtaking, mysterious, fantasy, magical, black hair, weathered face, gray eyes, plate armor symbols of justice, big sword, (man with armor:1.5), surrealism, hyper-realistic, colors and shapes, highly detailed, realism pushed to extreme, fine texture, 8k, ultra-detailed, (vivid swirling smoke, thick smoke:1.4), fluid, mist, cinematic, (intricate details:1.5), (vibrant colors:1.4), flash explosion, (colorful mist powder explosion), (short hair:1.5) "((magical enchantment on hands))" "((creates a sword move from hands towards viewer))"
+
+3. Lyra Whisperwind:
+Description:
+
+Lithe and agile, Lyra moves with a dancer's grace, her silver hair cascading down like a waterfall of moonlight.
+Her eyes are deep pools of shadow, hiding secrets and motivations that are only hinted at in the subtle curve of her lips.
+Dressed in sleek, dark leather adorned with mysterious symbols, she blends seamlessly into the shadows.
+Wears a magical amulet, an obsidian gem that pulses with an inner darkness, granting her control over shadows.
+
+PROMPT: breathtaking, mysterious, fantasy, magical, silver hair, black eyes, red lips, sleek, dark leather adorned with mysterious symbols, magical amulet with an obsidian gem, (woman assassin:1.5), surrealism, hyper-realistic, colors and shapes, highly detailed, realism pushed to extreme, fine texture, 8k, ultra-detailed, (vivid swirling shadows, thick shadows:1.4), fluid, shadow, cinematic, (intricate details:1.5), (vibrant colors:1.4), shadow explosion, (colorful shadowy powder explosion), (long hair:1.5) "((magical enchantment on hands))"
+
+------------------------
+
+Подкани за генериране на изображения за места/сцени:
+
+1. Celestial Citadel:
+Description:
+
+A colossal floating fortress suspended in the clouds, the Celestial Citadel is a breathtaking spectacle of magical architecture.
+The towers are crafted from shimmering crystal, reflecting the colors of the elements they represent – blues for air, greens for earth, reds for fire, and whites for water.
+Hovering platforms and bridges connect the towers, surrounded by swirling storms that respond to the will of the mages.
+At the heart of the Citadel lies the Elemental Chamber, where the Council of Elements convenes, overseeing the balance of the world.
+
+2. Enchanted Grove:
+Description:
+
+A serene and ancient forest, the Enchanted Grove is filled with towering trees adorned with bioluminescent leaves that cast a gentle glow.
+The air is thick with magic, and the ground is covered in a carpet of vibrant flowers that bloom in response to the characters' presence.
+Hidden paths wind through the Grove, leading to hidden clearings where mystical creatures gather.
+A central pool reflects the moonlight, serving as the site for the characters' trials to unlock the Grove's secrets.
+
+3. Obsidian Caverns:
+Description:
+
+A sprawling network of dark tunnels and caverns deep beneath the earth, the Obsidian Caverns exude an ominous atmosphere.
+Walls of glossy black obsidian reflect a faint, eerie light emanating from phosphorescent fungi and crystals.
+The air is heavy with shadows that seem to move independently, creating an unsettling feeling of being watched.
+The heart of the caverns reveals an otherworldly portal to the realm of shadows, guarded by shadow creatures and dark energies.
